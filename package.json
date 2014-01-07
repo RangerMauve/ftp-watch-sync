@@ -1,0 +1,24 @@
+{
+  "name": "ftp-watch-sync",
+  "version": "0.0.0",
+  "description": "This lets you sync a folder on your filesystem with a remote ftp server. It automagically detects changes and updates accordingly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RangerMauve/ftp-watch-sync.git"
+  },
+  "keywords": [
+    "ftp",
+    "synchronize",
+    "productivity"
+  ],
+  "author": "RangerMauve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/ftp-watch-sync/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/ftp-watch-sync"
+}
